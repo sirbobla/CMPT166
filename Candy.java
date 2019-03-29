@@ -1,3 +1,4 @@
+//adding a comment for fun
 package DessertItem;
 //derive candy class from dessert item
 public class Candy extends DessertItem {
